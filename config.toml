@@ -1,0 +1,17 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-theme-learn"
+
+[outputFormats]
+  [outputFormats.HTMLCONTENT]
+  mediaType = "text/html"
+  baseName = 'htmlcontent'
+  path = "htmlcontent"
+  isPlainText = false
+  isHTML = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON", "HTMLCONTENT"]
+page = [ "HTML", "HTMLCONTENT"]
+section = ["HTML", "RSS", "HTMLCONTENT"]
