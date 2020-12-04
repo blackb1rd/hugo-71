@@ -1,34 +1,34 @@
 [
 {
-	"uri": "http://example.org/basics/content/",
+	"uri": "http://example.org/th/basics/content/",
 	"title": "Content",
 	"tags": [],
 	"description": "",
 	"content": "Lorem Ipsum.\n"
 },
 {
-	"uri": "http://example.org/basics/",
+	"uri": "http://example.org/th/basics/",
 	"title": "_Index",
 	"tags": [],
 	"description": "",
 	"content": "Chapter X Some Chapter title Lorem Ipsum.\n"
 },
 {
-	"uri": "http://example.org/",
+	"uri": "http://example.org/th/",
 	"title": "",
 	"tags": [],
 	"description": "",
 	"content": "Home Content This is the home content.\n"
 },
 {
-	"uri": "http://example.org/categories/",
+	"uri": "http://example.org/th/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://example.org/tags/",
+	"uri": "http://example.org/th/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

@@ -15,3 +15,13 @@ theme = "hugo-theme-learn"
 home = [ "HTML", "RSS", "JSON", "HTMLCONTENT"]
 page = [ "HTML", "HTMLCONTENT"]
 section = ["HTML", "RSS", "HTMLCONTENT"]
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "In English"
+    weight = 2
+  [languages.th]
+    languageName = "ไทย"
+    title = "th ไทย"
+    weight = 1

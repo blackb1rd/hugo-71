@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/th/basics/content/</loc>
+    <lastmod>2018-04-02T18:31:03-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/basics/content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://example.org/th/basics/content/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/th/basics/</loc>
+    <lastmod>2018-04-02T18:30:38-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/basics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://example.org/th/basics/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/th/</loc>
+    <lastmod>2018-04-02T18:31:03-04:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://example.org/th/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/th/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://example.org/th/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/th/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="th"
+                href="http://example.org/th/tags/"
+                />
+  </url>
+  
+</urlset>
